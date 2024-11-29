@@ -1,0 +1,18 @@
+.text-indent {
+            text-indent: 60px;
+        }
+
+        .letter-spacing {
+            letter-spacing: 4px;
+        }
+
+        .font-style {
+            font-style: bold;
+        }
+
+        .white-space {
+            white-space: pre;
+        }
+    .text-color{
+      color:#28ad6d;
+      }
